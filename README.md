@@ -1,4 +1,4 @@
 # Pargaigirish-demo
 This is my first Git Repository
-printf("\n")
+\n
 Author : Girish Pargai
